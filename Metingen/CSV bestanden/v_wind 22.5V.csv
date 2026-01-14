@@ -1,0 +1,76 @@
+﻿Date/Time,908 [°F],908 [fpm],
+1/7/26 11:44:09 AM,70.9,1820,
+1/7/26 11:44:10 AM,70.9,1818,
+1/7/26 11:44:11 AM,70.9,1842,
+1/7/26 11:44:12 AM,70.9,1811,
+1/7/26 11:44:13 AM,70.9,1818,
+1/7/26 11:44:14 AM,70.9,1808,
+1/7/26 11:44:15 AM,70.9,1846,
+1/7/26 11:44:16 AM,70.9,1856,
+1/7/26 11:44:17 AM,70.9,1828,
+1/7/26 11:44:18 AM,70.9,1832,
+1/7/26 11:44:19 AM,70.9,1857,
+1/7/26 11:44:20 AM,70.9,1803,
+1/7/26 11:44:21 AM,70.9,1822,
+1/7/26 11:44:22 AM,70.9,1825,
+1/7/26 11:44:23 AM,70.9,1831,
+1/7/26 11:44:24 AM,70.9,1827,
+1/7/26 11:44:25 AM,70.9,1822,
+1/7/26 11:44:26 AM,70.8,1849,
+1/7/26 11:44:27 AM,70.8,1830,
+1/7/26 11:44:28 AM,70.8,1854,
+1/7/26 11:44:29 AM,70.8,1833,
+1/7/26 11:44:30 AM,70.8,1811,
+1/7/26 11:44:31 AM,70.8,1805,
+1/7/26 11:44:32 AM,70.8,1854,
+1/7/26 11:44:33 AM,70.8,1867,
+1/7/26 11:44:34 AM,70.8,1833,
+1/7/26 11:44:35 AM,70.9,1828,
+1/7/26 11:44:36 AM,70.9,1858,
+1/7/26 11:44:37 AM,70.9,1802,
+1/7/26 11:44:38 AM,70.9,1825,
+1/7/26 11:44:39 AM,70.9,1820,
+1/7/26 11:44:40 AM,70.9,1826,
+1/7/26 11:44:41 AM,70.9,1857,
+1/7/26 11:44:42 AM,70.9,1843,
+1/7/26 11:44:43 AM,70.9,1833,
+1/7/26 11:44:44 AM,70.9,1834,
+1/7/26 11:44:45 AM,70.9,1817,
+1/7/26 11:44:46 AM,70.9,1838,
+1/7/26 11:44:47 AM,70.9,1843,
+1/7/26 11:44:48 AM,70.9,1824,
+Overall Average,70.9,1831,
+Minimum Total,70.8,1802,
+Maximum Total,70.9,1867,
+
+< General Information >
+App Version,Name of Measurement Program,Date of Measurement,Comments,
+30.2.7.92410,Basic View,1/7/26 11:44:51 AM,22.5 Volt exit tube length 0,455m,
+
+< Company >
+City,Country,Customer Number,E-mail address,Name,Name of Technician,Phone,Street,Fax,Website Address,
+,,,,,,,,,,
+
+< Customer >
+City,Country,Customer Number,E-mail address,Name,Name of Technician,Phone,Street,
+,,,,,,,,
+
+< Instruments >
+Name,Serial Number,Firmware Version,Measurement Parameters,
+testo 410i,49034908,1.101.1,Temperature,
+testo 410i,49034908,1.101.1,Flow Velocity,
+
+< Measuring Site >
+Name,System Number,System Type,System Manufacturer,System Serial Number,Date of Manufacture,Notes,
+,,,,,,,
+
+< Measurement Parameters >
+Measuring mode,Measuring Cycle,Start Time,End,Duration,
+Continuous,1 Sec,1/7/26 11:44:09 AM,1/7/26 11:44:48 AM,39 Sec,
+
+< Graphic sections >
+Name
+
+< Images >
+Name
+

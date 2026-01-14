@@ -1,0 +1,70 @@
+﻿Date/Time,908 [°F],908 [fpm],
+1/7/26 11:05:46 AM,70.4,744,
+1/7/26 11:05:47 AM,70.4,739,
+1/7/26 11:05:48 AM,70.4,744,
+1/7/26 11:05:49 AM,70.4,738,
+1/7/26 11:05:50 AM,70.4,740,
+1/7/26 11:05:51 AM,70.4,748,
+1/7/26 11:05:52 AM,70.4,746,
+1/7/26 11:05:53 AM,70.4,745,
+1/7/26 11:05:54 AM,70.4,737,
+1/7/26 11:05:55 AM,70.4,745,
+1/7/26 11:05:56 AM,70.4,741,
+1/7/26 11:05:57 AM,70.4,744,
+1/7/26 11:05:58 AM,70.4,739,
+1/7/26 11:05:59 AM,70.4,744,
+1/7/26 11:06:00 AM,70.4,738,
+1/7/26 11:06:01 AM,70.4,740,
+1/7/26 11:06:02 AM,70.4,743,
+1/7/26 11:06:03 AM,70.4,743,
+1/7/26 11:06:04 AM,70.4,738,
+1/7/26 11:06:05 AM,70.4,742,
+1/7/26 11:06:06 AM,70.4,755,
+1/7/26 11:06:07 AM,70.4,746,
+1/7/26 11:06:08 AM,70.4,744,
+1/7/26 11:06:09 AM,70.4,743,
+1/7/26 11:06:10 AM,70.4,741,
+1/7/26 11:06:11 AM,70.4,736,
+1/7/26 11:06:12 AM,70.4,745,
+1/7/26 11:06:13 AM,70.4,741,
+1/7/26 11:06:14 AM,70.4,746,
+1/7/26 11:06:15 AM,70.4,743,
+1/7/26 11:06:16 AM,70.4,753,
+1/7/26 11:06:17 AM,70.4,746,
+1/7/26 11:06:18 AM,70.4,746,
+1/7/26 11:06:19 AM,70.4,745,
+Overall Average,70.4,743,
+Minimum Total,70.4,736,
+Maximum Total,70.4,755,
+
+< General Information >
+App Version,Name of Measurement Program,Date of Measurement,Comments,
+30.2.7.92410,Basic View,1/7/26 11:06:21 AM,9.5 Volt exit tube length 0,455m,
+
+< Company >
+City,Country,Customer Number,E-mail address,Name,Name of Technician,Phone,Street,Fax,Website Address,
+,,,,,,,,,,
+
+< Customer >
+City,Country,Customer Number,E-mail address,Name,Name of Technician,Phone,Street,
+,,,,,,,,
+
+< Instruments >
+Name,Serial Number,Firmware Version,Measurement Parameters,
+testo 410i,49034908,1.101.1,Temperature,
+testo 410i,49034908,1.101.1,Flow Velocity,
+
+< Measuring Site >
+Name,System Number,System Type,System Manufacturer,System Serial Number,Date of Manufacture,Notes,
+,,,,,,,
+
+< Measurement Parameters >
+Measuring mode,Measuring Cycle,Start Time,End,Duration,
+Continuous,1 Sec,1/7/26 11:05:46 AM,1/7/26 11:06:19 AM,33 Sec,
+
+< Graphic sections >
+Name
+
+< Images >
+Name
+

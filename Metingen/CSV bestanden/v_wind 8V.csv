@@ -1,0 +1,80 @@
+﻿Date/Time,908 [°F],908 [fpm],
+1/7/26 11:01:01 AM,70.5,594,
+1/7/26 11:01:02 AM,70.5,593,
+1/7/26 11:01:03 AM,70.5,590,
+1/7/26 11:01:04 AM,70.5,591,
+1/7/26 11:01:05 AM,70.5,597,
+1/7/26 11:01:06 AM,70.5,595,
+1/7/26 11:01:07 AM,70.5,597,
+1/7/26 11:01:08 AM,70.5,592,
+1/7/26 11:01:09 AM,70.5,590,
+1/7/26 11:01:10 AM,70.5,601,
+1/7/26 11:01:11 AM,70.5,596,
+1/7/26 11:01:12 AM,70.5,588,
+1/7/26 11:01:13 AM,70.5,597,
+1/7/26 11:01:14 AM,70.5,591,
+1/7/26 11:01:15 AM,70.5,593,
+1/7/26 11:01:16 AM,70.5,594,
+1/7/26 11:01:17 AM,70.5,592,
+1/7/26 11:01:18 AM,70.5,592,
+1/7/26 11:01:19 AM,70.5,595,
+1/7/26 11:01:20 AM,70.5,594,
+1/7/26 11:01:21 AM,70.5,596,
+1/7/26 11:01:22 AM,70.5,594,
+1/7/26 11:01:23 AM,70.5,598,
+1/7/26 11:01:24 AM,70.5,589,
+1/7/26 11:01:25 AM,70.5,596,
+1/7/26 11:01:26 AM,70.5,600,
+1/7/26 11:01:27 AM,70.5,598,
+1/7/26 11:01:28 AM,70.5,588,
+1/7/26 11:01:29 AM,70.5,597,
+1/7/26 11:01:30 AM,70.5,594,
+1/7/26 11:01:31 AM,70.5,597,
+1/7/26 11:01:32 AM,70.5,595,
+1/7/26 11:01:33 AM,70.5,593,
+1/7/26 11:01:34 AM,70.5,591,
+1/7/26 11:01:35 AM,70.5,602,
+1/7/26 11:01:36 AM,70.5,599,
+1/7/26 11:01:37 AM,70.5,593,
+1/7/26 11:01:38 AM,70.5,590,
+1/7/26 11:01:39 AM,70.5,590,
+1/7/26 11:01:40 AM,70.5,594,
+1/7/26 11:01:41 AM,70.5,595,
+1/7/26 11:01:42 AM,70.5,597,
+1/7/26 11:01:43 AM,70.5,596,
+1/7/26 11:01:44 AM,70.5,592,
+Overall Average,70.5,594,
+Minimum Total,70.5,588,
+Maximum Total,70.5,602,
+
+< General Information >
+App Version,Name of Measurement Program,Date of Measurement,Comments,
+30.2.7.92410,Basic View,1/7/26 11:01:48 AM,,
+
+< Company >
+City,Country,Customer Number,E-mail address,Name,Name of Technician,Phone,Street,Fax,Website Address,
+,,,,,,,,,,
+
+< Customer >
+City,Country,Customer Number,E-mail address,Name,Name of Technician,Phone,Street,
+,,,,,,,,
+
+< Instruments >
+Name,Serial Number,Firmware Version,Measurement Parameters,
+testo 410i,49034908,1.101.1,Temperature,
+testo 410i,49034908,1.101.1,Flow Velocity,
+
+< Measuring Site >
+Name,System Number,System Type,System Manufacturer,System Serial Number,Date of Manufacture,Notes,
+,,,,,,,
+
+< Measurement Parameters >
+Measuring mode,Measuring Cycle,Start Time,End,Duration,
+Continuous,1 Sec,1/7/26 11:01:01 AM,1/7/26 11:01:44 AM,43 Sec,
+
+< Graphic sections >
+Name
+
+< Images >
+Name
+

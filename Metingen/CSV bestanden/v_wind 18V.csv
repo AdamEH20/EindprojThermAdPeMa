@@ -1,0 +1,71 @@
+﻿Date/Time,908 [°F],908 [fpm],
+1/7/26 11:31:11 AM,70.4,1528,
+1/7/26 11:31:12 AM,70.4,1502,
+1/7/26 11:31:13 AM,70.4,1513,
+1/7/26 11:31:14 AM,70.4,1513,
+1/7/26 11:31:15 AM,70.4,1509,
+1/7/26 11:31:16 AM,70.4,1515,
+1/7/26 11:31:17 AM,70.4,1522,
+1/7/26 11:31:18 AM,70.4,1503,
+1/7/26 11:31:19 AM,70.4,1492,
+1/7/26 11:31:20 AM,70.4,1505,
+1/7/26 11:31:21 AM,70.4,1515,
+1/7/26 11:31:22 AM,70.4,1495,
+1/7/26 11:31:23 AM,70.4,1512,
+1/7/26 11:31:24 AM,70.4,1508,
+1/7/26 11:31:25 AM,70.4,1495,
+1/7/26 11:31:26 AM,70.4,1511,
+1/7/26 11:31:27 AM,70.4,1510,
+1/7/26 11:31:28 AM,70.4,1495,
+1/7/26 11:31:29 AM,70.4,1497,
+1/7/26 11:31:30 AM,70.4,1517,
+1/7/26 11:31:31 AM,70.4,1489,
+1/7/26 11:31:32 AM,70.4,1505,
+1/7/26 11:31:33 AM,70.4,1512,
+1/7/26 11:31:34 AM,70.4,1510,
+1/7/26 11:31:35 AM,70.4,1492,
+1/7/26 11:31:36 AM,70.4,1486,
+1/7/26 11:31:37 AM,70.4,1502,
+1/7/26 11:31:38 AM,70.4,1491,
+1/7/26 11:31:39 AM,70.4,1495,
+1/7/26 11:31:40 AM,70.4,1507,
+1/7/26 11:31:41 AM,70.4,1515,
+1/7/26 11:31:42 AM,70.4,1509,
+1/7/26 11:31:43 AM,70.4,1531,
+1/7/26 11:31:44 AM,70.4,1507,
+1/7/26 11:31:45 AM,70.4,1523,
+Overall Average,70.4,1507,
+Minimum Total,70.4,1486,
+Maximum Total,70.4,1531,
+
+< General Information >
+App Version,Name of Measurement Program,Date of Measurement,Comments,
+30.2.7.92410,Basic View,1/7/26 11:31:48 AM,18 Volt exit tube length 0,455m,
+
+< Company >
+City,Country,Customer Number,E-mail address,Name,Name of Technician,Phone,Street,Fax,Website Address,
+,,,,,,,,,,
+
+< Customer >
+City,Country,Customer Number,E-mail address,Name,Name of Technician,Phone,Street,
+,,,,,,,,
+
+< Instruments >
+Name,Serial Number,Firmware Version,Measurement Parameters,
+testo 410i,49034908,1.101.1,Temperature,
+testo 410i,49034908,1.101.1,Flow Velocity,
+
+< Measuring Site >
+Name,System Number,System Type,System Manufacturer,System Serial Number,Date of Manufacture,Notes,
+,,,,,,,
+
+< Measurement Parameters >
+Measuring mode,Measuring Cycle,Start Time,End,Duration,
+Continuous,1 Sec,1/7/26 11:31:11 AM,1/7/26 11:31:45 AM,34 Sec,
+
+< Graphic sections >
+Name
+
+< Images >
+Name
+

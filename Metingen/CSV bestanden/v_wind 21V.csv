@@ -1,0 +1,67 @@
+﻿Date/Time,908 [°F],908 [fpm],
+1/7/26 11:38:59 AM,70.8,1713,
+1/7/26 11:39:00 AM,70.8,1749,
+1/7/26 11:39:01 AM,70.8,1723,
+1/7/26 11:39:02 AM,70.8,1729,
+1/7/26 11:39:03 AM,70.8,1724,
+1/7/26 11:39:04 AM,70.8,1734,
+1/7/26 11:39:05 AM,70.8,1730,
+1/7/26 11:39:06 AM,70.8,1709,
+1/7/26 11:39:07 AM,70.8,1716,
+1/7/26 11:39:08 AM,70.8,1733,
+1/7/26 11:39:09 AM,70.8,1724,
+1/7/26 11:39:10 AM,70.8,1736,
+1/7/26 11:39:11 AM,70.8,1759,
+1/7/26 11:39:12 AM,70.8,1740,
+1/7/26 11:39:13 AM,70.8,1740,
+1/7/26 11:39:14 AM,70.8,1718,
+1/7/26 11:39:15 AM,70.8,1723,
+1/7/26 11:39:16 AM,70.8,1741,
+1/7/26 11:39:17 AM,70.8,1735,
+1/7/26 11:39:18 AM,70.8,1743,
+1/7/26 11:39:19 AM,70.8,1734,
+1/7/26 11:39:20 AM,70.8,1717,
+1/7/26 11:39:21 AM,70.8,1731,
+1/7/26 11:39:22 AM,70.8,1736,
+1/7/26 11:39:23 AM,70.8,1720,
+1/7/26 11:39:24 AM,70.8,1707,
+1/7/26 11:39:25 AM,70.8,1710,
+1/7/26 11:39:26 AM,70.8,1730,
+1/7/26 11:39:27 AM,70.8,1739,
+1/7/26 11:39:28 AM,70.8,1728,
+1/7/26 11:39:29 AM,70.8,1733,
+Overall Average,70.8,1729,
+Minimum Total,70.8,1707,
+Maximum Total,70.8,1759,
+
+< General Information >
+App Version,Name of Measurement Program,Date of Measurement,Comments,
+30.2.7.92410,Basic View,1/7/26 11:39:31 AM,21 Volt exit tube length 0,455m,
+
+< Company >
+City,Country,Customer Number,E-mail address,Name,Name of Technician,Phone,Street,Fax,Website Address,
+,,,,,,,,,,
+
+< Customer >
+City,Country,Customer Number,E-mail address,Name,Name of Technician,Phone,Street,
+,,,,,,,,
+
+< Instruments >
+Name,Serial Number,Firmware Version,Measurement Parameters,
+testo 410i,49034908,1.101.1,Temperature,
+testo 410i,49034908,1.101.1,Flow Velocity,
+
+< Measuring Site >
+Name,System Number,System Type,System Manufacturer,System Serial Number,Date of Manufacture,Notes,
+,,,,,,,
+
+< Measurement Parameters >
+Measuring mode,Measuring Cycle,Start Time,End,Duration,
+Continuous,1 Sec,1/7/26 11:38:59 AM,1/7/26 11:39:29 AM,30 Sec,
+
+< Graphic sections >
+Name
+
+< Images >
+Name
+

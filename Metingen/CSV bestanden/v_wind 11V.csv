@@ -1,0 +1,67 @@
+﻿Date/Time,908 [°F],908 [fpm],
+1/7/26 11:10:04 AM,70.4,890,
+1/7/26 11:10:05 AM,70.4,881,
+1/7/26 11:10:06 AM,70.4,870,
+1/7/26 11:10:07 AM,70.4,880,
+1/7/26 11:10:08 AM,70.4,878,
+1/7/26 11:10:09 AM,70.4,885,
+1/7/26 11:10:10 AM,70.4,881,
+1/7/26 11:10:11 AM,70.4,879,
+1/7/26 11:10:12 AM,70.4,876,
+1/7/26 11:10:13 AM,70.4,884,
+1/7/26 11:10:14 AM,70.4,875,
+1/7/26 11:10:15 AM,70.4,877,
+1/7/26 11:10:16 AM,70.4,875,
+1/7/26 11:10:17 AM,70.4,867,
+1/7/26 11:10:18 AM,70.4,881,
+1/7/26 11:10:19 AM,70.4,875,
+1/7/26 11:10:20 AM,70.4,882,
+1/7/26 11:10:21 AM,70.4,876,
+1/7/26 11:10:22 AM,70.4,886,
+1/7/26 11:10:23 AM,70.4,880,
+1/7/26 11:10:24 AM,70.4,878,
+1/7/26 11:10:25 AM,70.4,889,
+1/7/26 11:10:26 AM,70.4,871,
+1/7/26 11:10:27 AM,70.4,873,
+1/7/26 11:10:28 AM,70.4,873,
+1/7/26 11:10:29 AM,70.4,874,
+1/7/26 11:10:30 AM,70.4,880,
+1/7/26 11:10:31 AM,70.4,879,
+1/7/26 11:10:32 AM,70.4,880,
+1/7/26 11:10:33 AM,70.4,877,
+1/7/26 11:10:34 AM,70.4,880,
+Overall Average,70.4,878,
+Minimum Total,70.4,867,
+Maximum Total,70.4,890,
+
+< General Information >
+App Version,Name of Measurement Program,Date of Measurement,Comments,
+30.2.7.92410,Basic View,1/7/26 11:10:36 AM,11 Volt,
+
+< Company >
+City,Country,Customer Number,E-mail address,Name,Name of Technician,Phone,Street,Fax,Website Address,
+,,,,,,,,,,
+
+< Customer >
+City,Country,Customer Number,E-mail address,Name,Name of Technician,Phone,Street,
+,,,,,,,,
+
+< Instruments >
+Name,Serial Number,Firmware Version,Measurement Parameters,
+testo 410i,49034908,1.101.1,Temperature,
+testo 410i,49034908,1.101.1,Flow Velocity,
+
+< Measuring Site >
+Name,System Number,System Type,System Manufacturer,System Serial Number,Date of Manufacture,Notes,
+,,,,,,,
+
+< Measurement Parameters >
+Measuring mode,Measuring Cycle,Start Time,End,Duration,
+Continuous,1 Sec,1/7/26 11:10:04 AM,1/7/26 11:10:34 AM,30 Sec,
+
+< Graphic sections >
+Name
+
+< Images >
+Name
+

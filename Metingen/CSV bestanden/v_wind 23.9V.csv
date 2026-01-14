@@ -1,0 +1,73 @@
+﻿Date/Time,908 [°F],908 [fpm],
+1/7/26 11:50:09 AM,70.8,1907,
+1/7/26 11:50:10 AM,70.8,1912,
+1/7/26 11:50:11 AM,70.8,1923,
+1/7/26 11:50:12 AM,70.8,1924,
+1/7/26 11:50:13 AM,70.8,1931,
+1/7/26 11:50:14 AM,70.8,1931,
+1/7/26 11:50:15 AM,70.8,1924,
+1/7/26 11:50:16 AM,70.8,1914,
+1/7/26 11:50:17 AM,70.8,1907,
+1/7/26 11:50:18 AM,70.8,1877,
+1/7/26 11:50:19 AM,70.7,1937,
+1/7/26 11:50:20 AM,70.7,1919,
+1/7/26 11:50:21 AM,70.7,1902,
+1/7/26 11:50:22 AM,70.8,1926,
+1/7/26 11:50:23 AM,70.8,1930,
+1/7/26 11:50:24 AM,70.8,1931,
+1/7/26 11:50:25 AM,70.8,1939,
+1/7/26 11:50:26 AM,70.8,1941,
+1/7/26 11:50:27 AM,70.8,1917,
+1/7/26 11:50:28 AM,70.7,1926,
+1/7/26 11:50:29 AM,70.7,1932,
+1/7/26 11:50:30 AM,70.8,1917,
+1/7/26 11:50:31 AM,70.8,1922,
+1/7/26 11:50:32 AM,70.8,1961,
+1/7/26 11:50:33 AM,70.8,1943,
+1/7/26 11:50:34 AM,70.8,1939,
+1/7/26 11:50:35 AM,70.8,1946,
+1/7/26 11:50:36 AM,70.8,1931,
+1/7/26 11:50:37 AM,70.8,1899,
+1/7/26 11:50:38 AM,70.8,1933,
+1/7/26 11:50:39 AM,70.8,1936,
+1/7/26 11:50:40 AM,70.8,1919,
+1/7/26 11:50:41 AM,70.8,1922,
+1/7/26 11:50:42 AM,70.8,1946,
+1/7/26 11:50:43 AM,70.8,1917,
+1/7/26 11:50:44 AM,70.8,1926,
+1/7/26 11:50:45 AM,70.8,1916,
+Overall Average,70.8,1925,
+Minimum Total,70.7,1877,
+Maximum Total,70.8,1961,
+
+< General Information >
+App Version,Name of Measurement Program,Date of Measurement,Comments,
+30.2.7.92410,Basic View,1/7/26 11:50:47 AM,23.9 Volt exit tube length 0,455m,
+
+< Company >
+City,Country,Customer Number,E-mail address,Name,Name of Technician,Phone,Street,Fax,Website Address,
+,,,,,,,,,,
+
+< Customer >
+City,Country,Customer Number,E-mail address,Name,Name of Technician,Phone,Street,
+,,,,,,,,
+
+< Instruments >
+Name,Serial Number,Firmware Version,Measurement Parameters,
+testo 410i,49034908,1.101.1,Temperature,
+testo 410i,49034908,1.101.1,Flow Velocity,
+
+< Measuring Site >
+Name,System Number,System Type,System Manufacturer,System Serial Number,Date of Manufacture,Notes,
+,,,,,,,
+
+< Measurement Parameters >
+Measuring mode,Measuring Cycle,Start Time,End,Duration,
+Continuous,1 Sec,1/7/26 11:50:09 AM,1/7/26 11:50:45 AM,36 Sec,
+
+< Graphic sections >
+Name
+
+< Images >
+Name
+

@@ -1,0 +1,69 @@
+﻿Date/Time,908 [°F],908 [fpm],
+1/7/26 11:24:33 AM,70.4,1345,
+1/7/26 11:24:34 AM,70.4,1325,
+1/7/26 11:24:35 AM,70.4,1344,
+1/7/26 11:24:36 AM,70.4,1343,
+1/7/26 11:24:37 AM,70.4,1325,
+1/7/26 11:24:38 AM,70.4,1331,
+1/7/26 11:24:39 AM,70.4,1349,
+1/7/26 11:24:40 AM,70.4,1316,
+1/7/26 11:24:41 AM,70.4,1328,
+1/7/26 11:24:42 AM,70.4,1337,
+1/7/26 11:24:43 AM,70.4,1333,
+1/7/26 11:24:44 AM,70.4,1323,
+1/7/26 11:24:45 AM,70.4,1341,
+1/7/26 11:24:46 AM,70.4,1344,
+1/7/26 11:24:47 AM,70.4,1332,
+1/7/26 11:24:48 AM,70.4,1346,
+1/7/26 11:24:49 AM,70.4,1335,
+1/7/26 11:24:50 AM,70.4,1343,
+1/7/26 11:24:51 AM,70.4,1329,
+1/7/26 11:24:52 AM,70.4,1347,
+1/7/26 11:24:53 AM,70.4,1343,
+1/7/26 11:24:54 AM,70.4,1322,
+1/7/26 11:24:55 AM,70.4,1337,
+1/7/26 11:24:56 AM,70.4,1342,
+1/7/26 11:24:57 AM,70.4,1336,
+1/7/26 11:24:58 AM,70.4,1325,
+1/7/26 11:24:59 AM,70.4,1337,
+1/7/26 11:25:00 AM,70.4,1349,
+1/7/26 11:25:01 AM,70.4,1346,
+1/7/26 11:25:02 AM,70.4,1327,
+1/7/26 11:25:03 AM,70.4,1330,
+1/7/26 11:25:04 AM,70.4,1333,
+1/7/26 11:25:05 AM,70.4,1324,
+Overall Average,70.4,1335,
+Minimum Total,70.4,1316,
+Maximum Total,70.4,1349,
+
+< General Information >
+App Version,Name of Measurement Program,Date of Measurement,Comments,
+30.2.7.92410,Basic View,1/7/26 11:25:10 AM,16 Volt exit tube length 0,455m,
+
+< Company >
+City,Country,Customer Number,E-mail address,Name,Name of Technician,Phone,Street,Fax,Website Address,
+,,,,,,,,,,
+
+< Customer >
+City,Country,Customer Number,E-mail address,Name,Name of Technician,Phone,Street,
+,,,,,,,,
+
+< Instruments >
+Name,Serial Number,Firmware Version,Measurement Parameters,
+testo 410i,49034908,1.101.1,Temperature,
+testo 410i,49034908,1.101.1,Flow Velocity,
+
+< Measuring Site >
+Name,System Number,System Type,System Manufacturer,System Serial Number,Date of Manufacture,Notes,
+,,,,,,,
+
+< Measurement Parameters >
+Measuring mode,Measuring Cycle,Start Time,End,Duration,
+Continuous,1 Sec,1/7/26 11:24:33 AM,1/7/26 11:25:05 AM,32 Sec,
+
+< Graphic sections >
+Name
+
+< Images >
+Name
+

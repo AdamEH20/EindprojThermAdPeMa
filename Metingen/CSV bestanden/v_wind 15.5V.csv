@@ -1,0 +1,72 @@
+﻿Date/Time,908 [°F],908 [fpm],
+1/7/26 11:22:49 AM,70.4,1298,
+1/7/26 11:22:50 AM,70.4,1291,
+1/7/26 11:22:51 AM,70.4,1280,
+1/7/26 11:22:52 AM,70.4,1298,
+1/7/26 11:22:53 AM,70.4,1293,
+1/7/26 11:22:54 AM,70.4,1293,
+1/7/26 11:22:55 AM,70.4,1295,
+1/7/26 11:22:56 AM,70.4,1302,
+1/7/26 11:22:57 AM,70.4,1288,
+1/7/26 11:22:58 AM,70.4,1304,
+1/7/26 11:22:59 AM,70.4,1283,
+1/7/26 11:23:00 AM,70.4,1292,
+1/7/26 11:23:01 AM,70.4,1285,
+1/7/26 11:23:02 AM,70.4,1288,
+1/7/26 11:23:03 AM,70.4,1289,
+1/7/26 11:23:04 AM,70.4,1285,
+1/7/26 11:23:05 AM,70.4,1296,
+1/7/26 11:23:06 AM,70.4,1277,
+1/7/26 11:23:07 AM,70.4,1286,
+1/7/26 11:23:08 AM,70.4,1297,
+1/7/26 11:23:09 AM,70.4,1283,
+1/7/26 11:23:10 AM,70.4,1290,
+1/7/26 11:23:11 AM,70.4,1303,
+1/7/26 11:23:12 AM,70.4,1276,
+1/7/26 11:23:13 AM,70.4,1282,
+1/7/26 11:23:14 AM,70.4,1291,
+1/7/26 11:23:15 AM,70.4,1282,
+1/7/26 11:23:16 AM,70.4,1296,
+1/7/26 11:23:17 AM,70.4,1292,
+1/7/26 11:23:18 AM,70.4,1296,
+1/7/26 11:23:19 AM,70.4,1288,
+1/7/26 11:23:20 AM,70.4,1307,
+1/7/26 11:23:21 AM,70.5,1299,
+1/7/26 11:23:22 AM,70.5,1296,
+1/7/26 11:23:23 AM,70.5,1285,
+1/7/26 11:23:24 AM,70.4,1299,
+Overall Average,70.4,1291,
+Minimum Total,70.4,1276,
+Maximum Total,70.5,1307,
+
+< General Information >
+App Version,Name of Measurement Program,Date of Measurement,Comments,
+30.2.7.92410,Basic View,1/7/26 11:23:26 AM,15.5 Volt exit tube length 0,455m,
+
+< Company >
+City,Country,Customer Number,E-mail address,Name,Name of Technician,Phone,Street,Fax,Website Address,
+,,,,,,,,,,
+
+< Customer >
+City,Country,Customer Number,E-mail address,Name,Name of Technician,Phone,Street,
+,,,,,,,,
+
+< Instruments >
+Name,Serial Number,Firmware Version,Measurement Parameters,
+testo 410i,49034908,1.101.1,Temperature,
+testo 410i,49034908,1.101.1,Flow Velocity,
+
+< Measuring Site >
+Name,System Number,System Type,System Manufacturer,System Serial Number,Date of Manufacture,Notes,
+,,,,,,,
+
+< Measurement Parameters >
+Measuring mode,Measuring Cycle,Start Time,End,Duration,
+Continuous,1 Sec,1/7/26 11:22:49 AM,1/7/26 11:23:24 AM,35 Sec,
+
+< Graphic sections >
+Name
+
+< Images >
+Name
+
