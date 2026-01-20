@@ -26,34 +26,61 @@ def circularity(area: float, perimeter: float) -> float:
     return (4.0 * math.pi * area) / (perimeter * perimeter)
 
 
-def detect_ball_center(frame_bgr: np.ndarray) -> Detection:
-    gray = cv2.cvtColor(frame_bgr, cv2.COLOR_BGR2GRAY)
-    gray = cv2.GaussianBlur(gray, (7, 7), 0)
+def detect_ball_center(frame_bgr: np.ndarray,
+                       v_thresh: int = 200,
+                       min_area_frac: float = 0.001,
+                       circ_min: float = 0.70,
+                       min_r: float = 180,
+                       max_r: float = 270) -> Detection:
+    """
+    Detect bright ball on dark background by thresholding brightness (V channel).
+    Much more robust than Canny when there are reflections/glass edges.
 
-    edges = cv2.Canny(gray, 50, 140)
-    edges = cv2.dilate(edges, None, iterations=1)
-    edges = cv2.erode(edges, None, iterations=1)
+    Tune:
+      - v_thresh: lower if ball isn't fully bright; higher if too many highlights get included
+      - circ_min: raise if it detects glass/rim; lower if ball contour is messy
+      - min_r/max_r: set expected radius range (in px) to reject wrong objects
+    """
+    hsv = cv2.cvtColor(frame_bgr, cv2.COLOR_BGR2HSV)
+    v = hsv[:, :, 2]
 
-    contours, _ = cv2.findContours(edges, cv2.RETR_EXTERNAL, cv2.CHAIN_APPROX_SIMPLE)
+    # Slight blur to reduce speckle
+    v_blur = cv2.GaussianBlur(v, (7, 7), 0)
+
+    # Hard threshold on brightness (ball is bright)
+    _, mask = cv2.threshold(v_blur, v_thresh, 255, cv2.THRESH_BINARY)
+
+    # Morphology to fill small holes and remove small noise
+    mask = cv2.morphologyEx(mask, cv2.MORPH_CLOSE, np.ones((11, 11), np.uint8), iterations=2)
+    mask = cv2.morphologyEx(mask, cv2.MORPH_OPEN,  np.ones((7, 7),  np.uint8), iterations=1)
+
+    contours, _ = cv2.findContours(mask, cv2.RETR_EXTERNAL, cv2.CHAIN_APPROX_SIMPLE)
+
+    h, w = v.shape[:2]
+    frame_area = float(h * w)
+    min_area = min_area_frac * frame_area
 
     best = None
     best_score = -1.0
-    h, w = gray.shape[:2]
-    frame_area = float(h * w)
 
     for cnt in contours:
         area = cv2.contourArea(cnt)
-        if area < 0.0005 * frame_area:
+        if area < min_area:
             continue
 
         peri = cv2.arcLength(cnt, True)
         circ = circularity(area, peri)
 
         (x, y), r = cv2.minEnclosingCircle(cnt)
-        if r < 5:
+        if r < min_r or r > max_r:
             continue
 
-        score = circ * 2.0 + (area / frame_area)
+        if circ < circ_min:
+            continue
+
+        # Score: prefer circular + large
+        score = circ * 10.0 + (area / frame_area)
+
         if score > best_score:
             best_score = score
             best = (x, y, r)
@@ -63,6 +90,7 @@ def detect_ball_center(frame_bgr: np.ndarray) -> Detection:
 
     x, y, r = best
     return Detection(float(x), float(y), float(r), True)
+
 
 
 def parse_roi(s: str) -> Optional[Tuple[int, int, int, int]]:
